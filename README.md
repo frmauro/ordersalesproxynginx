@@ -14,3 +14,8 @@ sudo systemctl reload nginx
 sudo systemctl restart nginx
 sudo ufw app list
 curl –i 127.0.0.1
+
+
+## LINK config nginx proxy pass in Ubunto
+https://www.scaleway.com/en/docs/tutorials/nginx-reverse-proxy/
+
